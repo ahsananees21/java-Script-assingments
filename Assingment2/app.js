@@ -1,51 +1,51 @@
-// // question # 01
+// question # 01
 
-// let userName;
+let userName;
 
-// // question # 02
+// question # 02
 
-// let myName = ("Ahsan Anees")
+let myName = ("Ahsan Anees")
 
-// // question # 03
-// // part a
-// let message;
+// question # 03
+// part a
+let message;
 
-// // part b
-// message = "Hello World"
+// part b
+message = "Hello World"
 
-// // part c
-// alert(message);
+// part c
+alert(message);
 
-// // question # 04
+// question # 04
 
-// let studentName = "Jhone Doe"
-// let studentAge = 15
-// let studentCourse = "Certified Mobile Application Development"
+let studentName = "Jhone Doe"
+let studentAge = 15
+let studentCourse = "Certified Mobile Application Development"
 
-// alert(studentName);
-// alert(studentAge);
-// alert(studentCourse);
+alert(studentName);
+alert(studentAge);
+alert(studentCourse);
 
-// // question # 05
+// question # 05
 
-// alert("PIZZA \nPIZZ \nPIZ \nPI \nP")
+alert("PIZZA \nPIZZ \nPIZ \nPI \nP")
 
-// // question # 06
+// question # 06
 
-// let email = ("ahsananees21216@gmail.com")
-// alert(email)
+let email = ("ahsananees21216@gmail.com")
+alert(email)
 
-// // question # 07
+// question # 07
 
-// let book = "A smarter way to learn JavaScript"
-// alert(book)
+let book = "A smarter way to learn JavaScript"
+alert(book)
 
 // question # 08
 
-// let script = "Yah! I can write HTML content through JavaScript"
-// document.write(script)
+let script = "Yah! I can write HTML content through JavaScript"
+document.write(script)
 
 // question # 09
 
-// let design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
-// alert(design)
+let design = "“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”"
+alert(design)
