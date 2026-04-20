@@ -18,8 +18,12 @@
 
 // question # 04
 
-let visitorName = "Ahsan Anees"
-let productTitle = "T-Shirts"
-let quantity = 5
+// let visitorName = "Ahsan Anees"
+// let productTitle = "T-Shirts"
+// let quantity = 5
 
-document.write(visitorName + " ordered " + quantity + " " + productTitle + " on xyz clothing store")
+// document.write(visitorName + " ordered " + quantity + " " + productTitle + " on xyz clothing store")
+
+// // template literals / string literals
+
+// document.write(`${visitors}  ordered ${quantity} ${productTitle} on xyz clothing store`)
